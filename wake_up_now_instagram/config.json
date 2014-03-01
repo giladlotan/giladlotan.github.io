@@ -13,9 +13,9 @@
     "intro": "WakeUpNow - Instagram co-follow graph"
   },
   "legend": {
-    "edgeLabel": "co-subscription",
-    "colorLabel": "cluster",
-    "nodeLabel": "RSS Feed"
+    "edgeLabel": "follow",
+    "colorLabel": "degree of follows",
+    "nodeLabel": "instagram account"
   },
   "features": {
     "search": true,
