@@ -61,7 +61,7 @@ canvas#sigma_bg_1 {
     top:0;
     right:0;
 	width: 240px;
-	background-color: #000;
+	background-color: #ccc;
 	margin: 0;
 	word-wrap: break-word;
 	background-color:rgba(0,0,0,0.8);
@@ -233,8 +233,8 @@ display: none;
 #mainpanel {
 margin-top: 50px;
 margin-left: 25px;
-background:#fff;
-background-color:rgba(255,255,255,0.8);
+background:#000;
+background-color:rgba(0,0,0,0.8);
 border:1px solid #ccc;
 z-index:20;
 position:fixed;
